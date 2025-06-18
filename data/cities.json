@@ -1,0 +1,42 @@
+{
+  "Mexico": [
+    "Mexico City", "Guadalajara", "Monterrey", "Tijuana", "Puebla",
+    "Queretaro", "Merida", "Cancun", "Leon", "Toluca"
+  ],
+  "United States": [
+    "New York", "Los Angeles", "Chicago", "Houston", "Phoenix",
+    "Philadelphia", "San Antonio", "San Diego", "Dallas", "San Jose"
+  ],
+  "Argentina": [
+    "Buenos Aires", "Cordoba", "Rosario", "Mendoza", "La Plata",
+    "Tucuman", "Mar del Plata", "Salta", "San Juan", "Santa Fe"
+  ],
+  "Colombia": [
+    "Bogota", "Medellin", "Cali", "Barranquilla", "Cartagena",
+    "Bucaramanga", "Cucuta", "Pereira", "Manizales", "Santa Marta"
+  ],
+  "Chile": [
+    "Santiago", "Valparaiso", "Concepcion", "La Serena", "Antofagasta",
+    "Temuco", "Iquique", "Rancagua", "Talca", "Puerto Montt"
+  ],
+  "Spain": [
+    "Madrid", "Barcelona", "Valencia", "Seville", "Zaragoza",
+    "Malaga", "Murcia", "Palma", "Bilbao", "Alicante"
+  ],
+  "Peru": [
+    "Lima", "Arequipa", "Cusco", "Trujillo", "Chiclayo",
+    "Piura", "Iquitos", "Tacna", "Huancayo", "Puno"
+  ],
+  "Venezuela": [
+    "Caracas", "Maracaibo", "Valencia", "Barquisimeto", "Ciudad Guayana",
+    "Barcelona", "Maturin", "San Cristobal", "Merida", "Puerto La Cruz"
+  ],
+  "Canada": [
+    "Toronto", "Vancouver", "Montreal", "Calgary", "Ottawa",
+    "Edmonton", "Winnipeg", "Halifax", "Quebec City", "Victoria"
+  ],
+  "Brazil": [
+    "Sao Paulo", "Rio de Janeiro", "Brasilia", "Salvador", "Fortaleza",
+    "Belo Horizonte", "Manaus", "Curitiba", "Recife", "Porto Alegre"
+  ]
+}
