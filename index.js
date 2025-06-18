@@ -1,7 +1,7 @@
 const { Client, Collection, GatewayIntentBits, Partials, REST, Routes } = require('discord.js');
 const fs = require('fs');
 const path = require('path');
-const config = require('./config.json');
+const config = require('./config.js');
 const showKastNeofetch = require('./utils/neofetch'); // 🧠 Importamos el neofetch
 
 const client = new Client({

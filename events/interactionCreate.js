@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const { PermissionsBitField } = require('discord.js');
 const responses = require('../utils/responses');
-const config = require('../config.json');
+const config = require('../config.js');
 
 const dataPath = path.join(__dirname, '../data/channelOwners.json');
 
